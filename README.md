@@ -13,3 +13,9 @@ For individual t-test of each lots, we found the following:
 2. For lot2, the p-value is 0.89 which is above 0.05 which means we cannot reject the null hypothesis. The two means are not statistically different. 
 3. For lot3, the p-value is 0.79 which is above 0.05. The mean of lot3 is not statistically different from the populaiton mean of 1500 pounds per square inch. 
 
+## Study Design: MechaCar vs Competition.
+1. I will perform statistical analysis on two key features that I believe are very important and impact consumer decisions. The two features are
+cost of the vehicle and safety rating of the vehicle. 
+2. Null hypothesis H0: Cost and safety rating of MechaCars vehicles are not statistically different than its competitors. H1: Cost and safety rating of MechaCars vehciles are statistically different than its competitors. 
+3. I would use the Two-Sample T-test to analyze this data. The two samples would be MechaCars data and its competitors data. I would perform this test twice for both cost and safety features individually. We could also use the ANOVA test if we want to test these features for more than 1 competitor i.e. two or more. 
+4. We would need the cost of vehicles, the safety ratings of each vehicle and different vehicle models of each company. Running the tests for each model could give us a detailed analysis of where the issue might be, if there is any.
